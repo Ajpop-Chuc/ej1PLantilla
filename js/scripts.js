@@ -7,7 +7,7 @@
 // Scripts
 // 
 
-window.addEventListener('DOMContentLoaded', event => {
+window.addEventListener('DOMContentLoaded', event => { //Cambio2
 
     // Navbar shrink function
     var navbarShrink = function () {
